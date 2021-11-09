@@ -1,0 +1,18 @@
+{
+    "name": "carlos-010/query-builder",
+    "description": "a awesome php lib to generate sql crud sentences , easy to implement in our projects",
+    "type": "library",
+    "authors": [
+        {
+            "name": "carlos bumba",
+            "email": "carlosbumbanio@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nio01\\QueryBuilder\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
